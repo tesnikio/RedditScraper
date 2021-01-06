@@ -1,0 +1,701 @@
+ID,Author,Title,Count_of_Comments,Score,Upvote_Ratio,Flair,Date
+bfxr2z,fuzzymidget,Vim theory and reflections,52,285,0.98,,2019-04-22 15:06:14
+kr7e49,Loolzy,Nobody understands my plate :(,27,450,0.94,,2021-01-06 07:47:02
+krizaj,nebulaeandstars,Finally switched to Android. First thing I did was install git and clone my .vimrc,6,30,0.87,other,2021-01-06 18:26:21
+krowvo,krehwell,anyone still remember the guy make a blog for his podcast about vim?,0,1,1.0,question,2021-01-07 01:29:54
+krotbt,chooseausername2ok,How can I combine vimwiki and calendar.vim to navigate diary entries from the calendar?,0,1,1.0,,2021-01-07 01:24:15
+kr3w8d,SamLovesNotion,How to make Vim status bar look like this?,32,31,0.78,question,2021-01-06 05:06:37
+krl1ql,aramayis_,How I can avoid from ^M ?,5,1,1.0,,2021-01-06 21:06:46
+kri9sn,regmicmahesh,upload your text selection to ix.io,2,1,1.0,,2021-01-06 17:35:12
+kqw8o4,Galeaf_13,Why do people say vim (nvim) is not a great IDE?,56,34,0.78,question,2021-01-05 21:59:26
+kqs3vi,prabirshrestha,vim-lsp 2021 (poll),3,49,0.9,,2021-01-05 17:06:06
+kr3sho,smbell,ALE Rust Autocomplete,12,6,0.87,,2021-01-06 05:01:50
+kr9rnu,animalCollectiveSoul,How to jump to matching angle-bracket < > using %,2,2,1.0,question,2021-01-06 09:41:01
+kr5vr7,Tychoko,[COC] How to jump through arguments and such,4,2,0.75,question,2021-01-06 06:37:48
+kr4n8u,sebas5758,"How to get ctrl+{x, c, v} work on every vim mode?",13,1,0.56,,2021-01-06 05:39:57
+kr3ho5,ericx2x,How do I tell FZF to search in the project and not directory level or below?,2,0,0.5,,2021-01-06 04:48:05
+kq0sbd,FechinLi,A quick reference was made for vim navigation,26,548,0.98,,2021-01-04 15:04:51
+kqmino,Ctrl_Phr34k,"backup, swap and undo files inherit permissions from original file on remote system",2,5,0.7,question,2021-01-05 11:49:16
+kqz045,speckz,5 lines I put in a blank .vimrc,4,0,0.43,tip,2021-01-06 01:02:41
+kqf1a9,mipselaer,"New plugin Hotpop, map keys and create cheatsheet in one command",5,12,0.93,,2021-01-05 05:50:21
+kqf54h,mipselaer,"panelmanager-plugin, swaps plugins in left of right panels",0,5,0.86,,2021-01-05 05:55:37
+kqplkw,sebas5758,Change default `commentstring` of a certain file type (kotlin) in order to use vim-commentary (Plugin)?,6,0,0.5,,2021-01-05 14:35:46
+kqleq2,raguy1143,tslint in coc-eslint?,2,1,1.0,,2021-01-05 10:52:39
+kq6sfn,scholae8f,White space is not necessarily whitespace,3,8,1.0,,2021-01-04 22:19:12
+kqb82p,jyscao,Program to an Interface: An Exercise in Cache Removal,1,3,0.72,,2021-01-05 02:45:44
+kqcmlu,Gaho,Question about returning nothing to an <expr> mapping.,7,2,1.0,question,2021-01-05 03:55:35
+kqacbh,craigdmac,'vim-clap' fuzzy finder now can use Vim's built-in matchfuzzy() function,1,2,0.63,,2021-01-05 02:00:30
+kqc5np,iio7,Proper syntax highlighting for Markdown,1,1,1.0,,2021-01-05 03:32:34
+kqav2c,ChineseJapanese,VimWiki diary: How to create diary entry for a future date?,6,1,0.6,question,2021-01-05 02:27:19
+kq93e5,zdm-red,Is there a way use shell alias in vim?,14,1,0.67,,2021-01-05 00:49:34
+kpj4o2,mrillusi0n,Why am I getting this extra screen when trying to open a file?,17,93,0.99,question,2021-01-03 22:30:23
+kq6veg,chakrihacker,E173: n more files to edit,3,1,1.0,question,2021-01-04 22:25:03
+kq2y37,dddbbb,[UltiSnips] a snippet to infer type when using new,0,2,1.0,tip,2021-01-04 17:22:04
+kq2uu1,eeeyyyygang,how to reload changes made to colorscheme,3,2,1.0,,2021-01-04 17:15:36
+kq5d7n,RunningUtes,visual text selection similiar to cword,2,1,1.0,,2021-01-04 20:27:37
+kq563x,ghiste,linking to a file outsite the vimwiki-directory,2,1,0.67,,2021-01-04 20:11:47
+kq4xga,raguy1143,Nerdtree - how to move down the directory?,2,0,0.33,,2021-01-04 19:52:05
+kq3jju,raguy1143,How to open vim with a multiple folder project,12,1,1.0,,2021-01-04 18:05:46
+kq3i03,gggayppporn,Is there a way to navigate vim’s default ctrl p completion menu without using the arrow keys?,9,0,0.33,question,2021-01-04 18:02:49
+kpsg3a,supersonic_528,A 'word' in vim,9,6,0.87,,2021-01-04 07:35:34
+kq064o,makavelida,"Same colorscheme, but different colors for two different files?",2,1,1.0,question,2021-01-04 14:29:38
+kpxsm3,po2gdHaeKaYk,Copying to system clipboard from SSH + Vim,10,1,0.67,,2021-01-04 12:17:50
+kpvtmi,thisisaiken,Lag on c key,6,0,0.5,question,2021-01-04 10:30:23
+kpp3sl,MrRichBOB,Is there a way to get Vim to highlight the area between braces and brackets like this? like with pipe symbols or something like that?,6,2,1.0,question,2021-01-04 04:53:03
+kpshyt,Stona1,Compile SASS in VIM,8,0,0.33,,2021-01-04 07:38:06
+koxvbk,CalinLeafshade,"Note Taking in vim with markdown and pandoc and bears, oh my!",38,240,0.98,,2021-01-03 00:58:02
+kpi9s8,KKoovalsky,Moving files intuitively using netrw,3,5,1.0,,2021-01-03 21:19:57
+kpi7fh,niceloaf,Is there a way to do a specific thing with specific file extensions?,5,2,0.99,,2021-01-03 21:13:43
+kpfnpq,Atralb,What is the quickest way to compare the content of a buffer on a file and the file itself on disk ?,12,1,0.67,,2021-01-03 17:43:18
+kp9ixq,SirDerpington660,orange color schemes?,6,3,0.8,question,2021-01-03 11:28:40
+kp8kxi,qsiek,VimWiki issue with the renaming files on Win10.,4,1,0.67,,2021-01-03 10:36:48
+koxmcf,AbhinavGeorge,"talking about linux, i3wm, manjaro, vim and all of that",3,5,0.59,other,2021-01-03 00:39:49
+koppfz,One_Paleontologist78,How to configure ALE for cross compiled code?,3,22,0.86,,2021-01-02 14:22:09
+kp8qbm,Goel25,I made Tetris with Triangles (using vim!),8,0,0.45,,2021-01-03 10:44:52
+kp2nl3,StoneColdET_,"YouCompleteMe Broke, vim not compiling in python3",7,0,0.5,,2021-01-03 05:27:46
+kp1b4t,a_user_to_ask,Equivalence of C-x C-f <filename> of emacs.,6,1,1.0,,2021-01-03 04:18:09
+kp6w22,jezzackk,How can I remap the position of the esc key and the caps lock key to switch places?,15,0,0.17,question,2021-01-03 09:06:46
+koxqx6,Atralb,How to make a keybinding which would be a toggle for enabling/disabling other keybindings ?,4,0,0.33,,2021-01-03 00:48:57
+koxlqz,Atralb,"Is there a colorscheme designed to be used for reading saved terminal scrollbacks, i.e. that does a good job at making prompt and command lines bring out (as opposed to stdout/sterr and other output) ?",2,0,0.33,,2021-01-03 00:38:28
+kobtzm,mgarort,"Order of initialization, and how to safely split vimrc into separate plugins?",17,53,0.97,,2021-01-02 01:08:55
+kp622r,mtgargh,Why does vim use hjkl for arrow keys and not jkl;?,9,0,0.18,,2021-01-03 08:22:41
+kom4kd,zaccstacc,center single buffer text,8,7,1.0,,2021-01-02 10:50:46
+koing4,pylipp,qmltags - Utility to create ctags for QML files,1,12,1.0,,2021-01-02 07:42:12
+koivli,Superjolly002,Little problems with st terminal,12,7,0.82,,2021-01-02 07:54:41
+kom3j7,Fastest_draw,Backspace through autocomment in one keystroke,3,3,0.72,,2021-01-02 10:49:12
+koq3tk,mementomoriok,Why does my vim save twice?,25,1,0.6,,2021-01-02 14:47:06
+kopr4e,cmdywrtr27,bad habit of using sudo,12,1,1.0,,2021-01-02 14:25:11
+koio92,zoeey123,Vimwiki Issue,24,3,1.0,,2021-01-02 07:43:28
+ko5c0k,CoastBig7293,How to one vim command output to another command.,4,27,0.93,,2021-01-01 15:57:16
+knq0zk,shaeinst,python script for running or compiling program in (n)vim,34,168,0.97,,2021-01-01 00:30:29
+koizhx,theyeedinosaur2,The truly powerful among us,13,0,0.35,,2021-01-02 08:00:36
+knxzdl,juacq97,I created a real template for my complex table fed from a simpler file with asciidoctor and vim!,0,8,1.0,other,2021-01-01 08:00:32
+ko2x1x,msharnoff,[Question] Execute normal command while searching?,7,3,1.0,,2021-01-01 13:00:21
+knowem,Kneasle,Terminal color poll,7,10,1.0,,2020-12-31 23:06:39
+kn53c5,K4r4kara,Even those of us that are trained in ~~regular expressions~~ the dark arts are fearful of this goliath,51,311,0.95,,2020-12-31 03:15:21
+knjbzt,jeffrey-tse,"Hey! Just created a new zsh-vi-mode plugin, don't you want to have a try?",34,25,0.89,,2020-12-31 15:58:38
+knnaii,MaterialFerret,Vim for dockerized C++ development suggestions,4,6,0.88,question,2020-12-31 20:52:40
+knn4er,rubyglue,What's your go-to for folding?,4,6,1.0,,2020-12-31 20:37:59
+knl4bx,RunningUtes,chaining command?,6,6,1.0,,2020-12-31 17:59:07
+knp973,Rhodes25,Anyone got a SIMPLE tutorial on Vimspector?,7,2,0.75,,2020-12-31 23:35:27
+knb67w,animal_spirits_,"Why does di"" work when the cursor is before the first quote but di( not work when the cursor is before the first paren?",11,25,0.92,question,2020-12-31 08:24:10
+knpqvt,PM_ME_YOUR_SOCKS_BOY,gq on save,5,1,0.67,question,2021-01-01 00:10:53
+kn4432,pit-ray,GUI Operation like Vimium or EasyMotion on Windows.,7,42,0.99,other,2020-12-31 02:22:22
+knqf6c,chovybizzasser,Install vim-plug inside vim (and intro to V-lang) - YouTube,0,0,0.36,tip,2021-01-01 00:57:06
+knrkkm,wsdjeg,SpaceVim releases v1.6.0,0,0,0.37,,2021-01-01 02:09:12
+kmtjlb,juacq97,I managed to recreate a complex table with Asciidoc(tor) and vim!,14,99,0.98,other,2020-12-30 14:02:52
+kn5i4r,phaedo7,Yanking only the leading white spaces in a line,14,2,0.75,,2020-12-31 03:37:11
+kn6es5,newbiePythonist,vim problem with themes,6,0,0.5,,2020-12-31 04:23:24
+kmxoi6,Superb_Box_3732,Just started using Vim yesterday,12,6,0.71,,2020-12-30 18:28:10
+kminql,tobra02,VIM Autocompletion,25,43,0.94,,2020-12-30 04:26:40
+kn0cpp,bWF0a3Vr,Key mappings everyone uses?,37,1,0.67,question,2020-12-30 22:06:46
+kmup3z,jamJam20,Is it possible to make hitting one tab goes to the beginning of the line of previous line?,10,3,0.71,,2020-12-30 15:12:03
+kmqfps,TheBeardedBit,Help Configuring .vimrc Load,3,2,1.0,question,2020-12-30 11:09:05
+km64qa,BulkyAlternative,Algorithms - vim minimal keystroke count solver?,45,87,0.99,question,2020-12-29 14:33:26
+kn0u4o,_k2s,Help to add more stuff to vim,12,0,0.22,,2020-12-30 22:44:36
+kmpe9l,spurious_proof,Emmet-Vim: Update Skeleton Code for html:5,1,2,1.0,,2020-12-30 10:12:42
+kmw25w,lizardwithsunglasses,Help with neovim,3,0,0.3,,2020-12-30 16:36:58
+kmd0bd,rafaelleru,[HELP][Tabs] Automatically select intent character based on file.,32,3,0.72,question,2020-12-29 22:52:00
+kmf6kl,_PM_ME_YOUR_ELBOWS,vsplit mutliple files?,7,2,0.76,,2020-12-30 01:14:43
+kmhdv7,cjbeltranll,Vim replaces \\ with rectangle.,26,0,0.5,,2020-12-30 03:20:37
+kloq67,phantaso0s,A Vim Guide for Intermediate Users,54,200,0.97,,2020-12-28 22:18:28
+kmd7lj,compscim,How to get the right intend for appended text provided by the read command?,4,2,0.76,,2020-12-29 23:06:54
+kmdm6y,florriemccarthy,Vim in iTerm2?,7,0,0.5,,2020-12-29 23:35:30
+km5rkz,HEDFRAMPTON,Vim for C# development (to replace VS),5,4,0.84,question,2020-12-29 14:11:47
+klw2lr,nathanalderson,Write markdown; paste formatted text,0,19,1.0,,2020-12-29 05:35:48
+km7up5,zhangjingqiang,How to find Python 3's home and dll path installed by pyenv on Ubuntu?,10,2,1.0,,2020-12-29 16:19:07
+kma9ty,rodney_the_wabbit_,Gvim's shortcut keys,3,0,0.5,other,2020-12-29 19:15:12
+klbrl2,mrillusi0n,Using / and ? for more than just searching.,36,179,0.97,tip,2020-12-28 08:20:54
+klt0jw,binaryfor,vimflowy - an open source productivity tool drawing inspiration from workflowy and vim,3,4,0.7,,2020-12-29 02:58:25
+km0544,codevion,"If you're not familiar with fzf.vim, here's a short highlight video",2,0,0.45,plugins & friends,2020-12-29 09:03:21
+klzbus,g3eronimo,Combining Vim and Org mode,2,1,0.67,question,2020-12-29 08:21:59
+kllt6v,SadClass8,Conditional Mapping that defaults to original function?,2,2,0.76,,2020-12-28 18:26:04
+kl16qz,codevion,Sneak.vim: quick plugin highlight video,34,91,0.93,plugins & friends,2020-12-27 20:58:23
+kl1qwq,shinze,"TIL Vim "":h |"" contains a joke !",18,29,0.82,,2020-12-27 21:51:42
+kkwvqb,anime-birthday-bot,Making my First Successful Vim Plugin,12,76,0.92,article,2020-12-27 15:11:09
+klb4db,Maskdask,Vim ignores shortmess+=A when sourcing session. Is this a bug?,4,1,1.0,question,2020-12-28 07:45:57
+kku7jl,trusktr,"Can't wait for Vim 9 script! (VimL 2, VimScript 2)",26,13,0.76,,2020-12-27 12:16:37
+kkhrb3,souvikhaldar,This is how I've setup vim for writing Latex,58,140,0.97,,2020-12-26 23:18:39
+kl30hf,Thyrum,"I made/updated a ""tabs for indentation and spaces for alignment"" plugin",1,1,0.67,plugins & friends,2020-12-27 23:38:08
+kkt7ig,sebas5758,"Can you group tabs on vim? And if so, how?",14,4,0.83,,2020-12-27 11:15:30
+kkql2i,sebas5758,"Java developers, how have you set vim in order to make development doable?",10,4,0.83,,2020-12-27 08:43:00
+kku2yl,arukhin,Chapter number scheme for the user manual?,2,2,1.0,,2020-12-27 12:08:29
+kkdee8,codevion,Screencast: Vimwiki and Taskwarrior integration!,11,46,0.96,,2020-12-26 16:34:48
+kkumoe,imajeeth,vim syntax highlighting disappears on multiple tabs,2,0,0.5,,2020-12-27 12:43:04
+kkznmn,MrRichBOB,How could one replicate the function of ‘e’ and ‘E’ in normal mode?,13,0,0.29,question,2020-12-27 18:37:33
+kk4ech,timeopochin,Regex snippets without plugins!,19,250,0.98,tip,2020-12-26 06:20:15
+kksr0s,sebas5758,How to move to an specific tab in vim?,16,1,1.0,question,2020-12-27 10:48:06
+kkiv9a,deat64x,"Vim as a backup tool for Data Wrangling (normal, global, substitute, and macros)",4,6,0.88,guide,2020-12-27 00:50:10
+kkfuww,TonyTech199secchio,New to vim. Can't find a plug-in that might exist,7,6,0.87,question,2020-12-26 20:24:40
+kkgsuy,THERajat08,what is the best vim based note making/taking tool in your opinion?,22,3,0.72,,2020-12-26 21:54:50
+kjsxkr,RunningUtes,Merry Christmas,12,274,0.98,,2020-12-25 15:19:34
+kkmi0u,codermind712,"Installing Rust Language Server and configuring Vim 8.1 to use it for autocomplete, code navigation, inline docs, and more!",1,0,0.31,,2020-12-27 04:46:40
+kjxr4z,joshpetit,"Help page for :Print - ""For people that keep the shift key pressed too long..."" Relateable haha.",11,29,0.97,did you know,2020-12-25 22:43:01
+kkitmz,hnous927,How I used SuperMemo to Master Vim in 10 Days,4,0,0.25,article,2020-12-27 00:46:37
+kkbuam,Fuzzy_Measurement705,Coding in C++,12,1,0.6,,2020-12-26 14:40:44
+kk8jyw,sebas5758,How to automatically switch to a new buffer I just opened?,4,0,0.33,,2020-12-26 10:54:15
+kk0uy5,joshpetit,Any documentation plugins for Java 11?,2,3,0.72,,2020-12-26 02:37:32
+kjw65i,mrillusi0n,What is wrong with the augroups? Should I be worried about the ENDs being colored that way?,17,10,0.86,,2020-12-25 20:04:48
+kk5o7d,arukhin,Usr_05 Question re: CTRL-G,5,1,1.0,,2020-12-26 07:43:24
+kkatlj,codermind712,"Thought I could continue as normal during lockdown, but I finally cracked in month 10 and made a youtube channel. Here's how to set up Rust Language Server autocomplete and code navigation in Neovim. Should work roughly the same for Vim 8.",3,0,0.38,,2020-12-26 13:28:39
+kjxt6g,n4nart,Is vim only good for Weakly typed PL?,12,4,1.0,,2020-12-25 22:48:09
+kjv48w,codevion,Created a screencast about my vimwiki/mdwiki setup,15,6,0.81,,2020-12-25 18:22:04
+kjxv5e,aramayis_,Any good themes for codding?,27,3,0.67,question,2020-12-25 22:52:53
+kk2vp7,Jacksons123,"YCM is Painfully Slow, Any Tips?",4,1,0.6,question,2020-12-26 04:45:49
+kjqz8u,hackerbaby,Any useful plugins for Colemak keyboard layout?,24,14,0.86,,2020-12-25 12:48:43
+kjxk7a,CRTejaswi,Windows: Access Visual-Block Mode,3,1,1.0,question,2020-12-25 22:25:37
+kjgeyp,_a_taki_se_polaczek_,Any good plugins for C# development besides omnisharp?,19,27,0.94,plugins & friends,2020-12-25 01:36:30
+kjsx87,apoisternex,Starting at vim,29,1,0.56,question,2020-12-25 15:18:40
+kjn356,all-music-is-bad-tbh,Sharing JS syntax file(s) with TS filetype.,3,7,0.75,,2020-12-25 08:21:37
+kja2g1,niceloaf,Is there a way to automatically generate makefiles?,13,44,0.88,question,2020-12-24 17:04:18
+kjkd4t,yokisuci,Wrong terminal colors in build in terminal,9,0,0.5,,2020-12-25 05:38:19
+kiqbvp,bratpeki,Which explorer do you use?,159,126,0.98,question,2020-12-23 20:54:21
+kix1k0,erick_pythonist,delete matching parentheses,30,25,0.96,,2020-12-24 04:17:22
+kj5g41,corvus_carpe_noctem,can you install both vim and macvim?,13,2,0.6,,2020-12-24 11:58:49
+kix5gx,IGTHSYCGTH,TIL: setting nocompatible makes vim stomp on file birth time (ext4),3,12,0.84,,2020-12-24 04:22:59
+kiqp3q,purely_educational,How does one USE use vim?,48,11,0.87,,2020-12-23 21:25:22
+kifui2,griswaffle,"Want to learn vim? Other than actually using vim, after vimtutor try making your own cheatsheet!",16,83,0.96,,2020-12-23 09:36:54
+khysau,Mohitds96,How do you use the Esc key,223,74,0.94,question,2020-12-22 16:15:28
+kik8dp,AlmightyAustin1,Where to start learning vim(macvim)?,14,0,0.4,,2020-12-23 13:37:07
+kig43v,jg_333,Noob here - Can I save from Vim to sd card?,5,1,0.56,,2020-12-23 09:50:55
+khje63,nicphi,TIL you can continue recording a macro,42,239,0.99,tip,2020-12-22 02:21:31
+ki2nej,raguy1143,Gdiffsplit doesnt show whole file,8,1,0.6,question,2020-12-22 21:15:40
+kh43nu,mrillusi0n,Sorry.,43,300,0.97,tip,2020-12-21 09:41:29
+khi1fa,inglourious_basterd,What's the most interesting keystroke or remap you learned recently?,14,12,0.84,,2020-12-22 01:05:56
+kheo9x,NegotiatingAnOther,Do Vim competitions exist ?,2,7,0.89,,2020-12-21 21:21:45
+khhwkh,WhatIsAMonad,"""^["" when press esc",8,2,1.0,,2020-12-22 00:58:49
+khld1f,Pollux_Mabuse,Chad ed user,4,0,0.45,,2020-12-22 04:04:09
+khepxw,abdeljalil73,"Bash command to launch vim, enter insert mode, type something then click Tab?",4,1,1.0,,2020-12-21 21:25:27
+khb77a,_PM_ME_YOUR_ELBOWS,[Noob] expand curly braces and place cursor on newline?,7,2,1.0,,2020-12-21 16:46:12
+kgu9yz,Legitimate-Builder45,"Better way to go to definition, and open file under cursor in new split in vim",17,31,0.98,,2020-12-21 00:48:53
+kgt0ty,Maskdask,Which is the best snippet engine and why?,44,20,0.84,question,2020-12-20 23:10:34
+kh6bcn,marcusl92,apple/swift/utils/vim as a Plugin,1,2,1.0,plugins & friends,2020-12-21 11:46:13
+kh8e2g,bwv549,Include hyphen as valid variable character for markdown files,2,1,1.0,question,2020-12-21 13:47:48
+kgk47s,po2gdHaeKaYk,How do you do this quickly with vim?,86,79,0.99,question,2020-12-20 11:47:36
+kh5itx,PM_ME_YOUR_SOCKS_BOY,Why is my mode line empty?,17,0,0.5,,2020-12-21 11:01:32
+kgrlx7,agilesteel,fzf - FuZzy Finder Tutorial,3,14,0.74,,2020-12-20 21:01:01
+kgrabm,MrRichBOB,"Yet another question about remapping keys... (this one may be different, though)",8,5,0.78,question,2020-12-20 20:31:37
+kgomit,raguy1143,How to find all files that uses a function?,23,8,1.0,question,2020-12-20 16:45:13
+kg72xy,VaiCity,Colorscheme for Colourblind,11,56,0.98,,2020-12-19 23:41:30
+kg3q9h,WastePurchase,Do you use set hidden or not?,44,39,0.91,question,2020-12-19 18:48:27
+kgmwmm,marmalodak,Show all instances of a certain string,7,1,0.6,,2020-12-20 14:44:01
+kgbrzu,Mte90,15$ bug bounty for a ticket on vDebug plugin,4,5,0.78,,2020-12-20 04:17:07
+kgiftn,animalCollectiveSoul,"Using vim with an IDE, trying to get the best of both worlds",20,1,0.57,,2020-12-20 10:08:11
+kg8x9f,noooit,Navigating in OOP C code base,23,4,1.0,,2020-12-20 01:46:34
+kfliei,lateralus-dev,Vim for React development (styled-components),8,46,0.96,,2020-12-19 00:54:15
+kg4ns3,CantPickDamnUsername,How to make my markdown preview in VIM faster & more efficient?,17,1,1.0,,2020-12-19 20:12:52
+kfoeiy,chillysurfer,What am I doing wrong with my regex search in a buffer?,16,21,0.96,,2020-12-19 03:33:09
+kfgk35,abdeljalil73,"People who use vim for note-taking, how do you sync your notes?",94,82,0.97,,2020-12-18 18:24:59
+kftykl,doedoe18881,Change buffer name for quickfix windows,2,6,0.88,,2020-12-19 08:21:52
+kfr754,EMurph55,A NERDTree extension plugin for adding react/typescript component folders,1,5,0.65,,2020-12-19 05:55:19
+kfu6ai,Maskdask,How do I add custom key-bindings with custom actions for a custom fzf command?,6,4,0.7,question,2020-12-19 08:33:34
+kfv9c5,Fun-Technician2120,vi/vim syntax highlighting,34,3,0.67,,2020-12-19 09:30:06
+kg6iy8,huashengdun,How to setup vim as a Python IDE on Ubuntu 20.04,15,0,0.29,guide,2020-12-19 22:56:54
+kfnaby,YuntiMcGunti,Remapping of $ and ^ doesn't work with delete.,10,5,0.79,,2020-12-19 02:35:06
+kf4wgb,steelypip,VisiData - a cool vim-like tool for examining and manipulating data,16,230,0.99,,2020-12-18 06:57:47
+kftwpe,Maskdask,# How do I remove only the first and last line break (if any) from a register?,10,1,0.67,,2020-12-19 08:19:07
+kez721,fenwicktreeguy,Vim not opening,12,23,0.86,,2020-12-18 02:13:10
+kf6los,kiwiheretic,Is it possible to just rebind the @ key?,4,1,0.56,,2020-12-18 08:22:58
+kfm0z3,accappatoiviola,Top 10 Most Popular Programming Languages - Statistics and Data,1,0,0.06,other,2020-12-19 01:24:48
+kemksw,gokuwho,Vim-like navigation inside PDF reader (such as Foxit Reader),36,53,0.97,,2020-12-17 12:01:48
+ke4pjy,mansetta,"Switched to vim from emacs, I like it!",78,97,0.89,,2020-12-16 18:25:49
+ke55el,skamsie_,vim-lineletters (jump to any visible line in the buffer by using letters instead of numbers),2,33,0.95,,2020-12-16 19:02:11
+kennw5,mintsou,termguicolors disabling all text colors in Alacritty,4,1,1.0,question,2020-12-17 12:59:35
+kekww6,CoreyYT,[Neovim] How would i make an automated compiler for groff?,4,0,0.38,question,2020-12-17 10:32:10
+keks0s,omrilevy8,vim-signify and vimspector collision,4,1,1.0,question,2020-12-17 10:25:05
+kdncom,faizan_20,Terminal game just went from 0 to 100:wq,109,350,0.91,tip,2020-12-16 02:06:56
+ke6l51,Groctel,Close vim when closing the last buffer?,4,8,1.0,question,2020-12-16 21:07:56
+kdzlp2,jdhao,better-escape.vim: a plugin to help you escape from insert mode without lagging,36,20,0.82,,2020-12-16 12:45:42
+ke0xft,Billbill290,Use fzf **natively** in Vim.,8,8,0.79,,2020-12-16 14:03:45
+ke9s8u,nerdbude,SpaceVim colorscheme won’t apply,2,0,0.5,,2020-12-17 01:06:19
+ke4dpe,kai,vimrc intro,9,4,0.7,tip,2020-12-16 17:59:37
+ke774u,Fedja_,Overriding FZF_DEFAULT_COMMAND on custom fzf commands.,0,1,0.67,,2020-12-16 22:00:03
+kdjajl,johnjax90,Share your Vim tips and tricks that you have discovered!,78,66,0.94,tip,2020-12-15 21:24:00
+ke3uhs,8thdev,Syntax: how can I add a keyword from within a match?,17,1,1.0,question,2020-12-16 17:18:17
+kdkljv,bkthedeveloper,Vim Tips [Episode 3] - Automatically Increment - Quickly and easily create incremented/decremented lists of numbers/letters/hex/binary [Skip to 01:20 to skip the preamble],10,25,0.86,,2020-12-15 23:09:22
+ke359k,Tagina_Vickler,Monitoring the contents of a buffer without writing to a file?,14,1,1.0,,2020-12-16 16:27:44
+kdzcuw,mmrtnt,Eterm VIM vs VI,5,1,1.0,tip,2020-12-16 12:31:12
+kdov6w,mgarort,Why do we have :cprev<CR> and :cnext<CR> to navigate the quickfix window?,10,5,1.0,,2020-12-16 03:28:08
+kdq06t,sooneday,Why is my Vim Column (command num |) 4 short?,5,3,1.0,question,2020-12-16 04:25:00
+kdr71o,zanguine23,Vim with Vue and Bootstrap Setup,10,2,1.0,,2020-12-16 05:24:05
+kcx2ug,zman32HD,"Newest patch for Vim released! Custom embroidered patch I made, combining two things I enjoy, Vim and machine embroidery. Credit to Vim as its their logo.",48,450,0.98,,2020-12-14 23:52:35
+kdupek,ghiste,Getting faster in vim,48,0,0.5,,2020-12-16 08:15:41
+kdkly7,gorilla0513,See jobs and logs of GitHub Actions on Vim,0,4,0.84,,2020-12-15 23:10:10
+kditw2,beauwilliams,Handy Vim Indent Format Function,3,2,0.75,,2020-12-15 20:45:13
+kcwsbk,-hardselius-,Vim on RM2,12,19,0.83,,2020-12-14 23:31:28
+kddbon,CalcHaru,Considering learning Vim... Is it worth it for a noob CS student?,23,1,0.56,,2020-12-15 14:02:29
+kcvrxe,ArcherN9,Single file compile from command line,9,2,1.0,question,2020-12-14 22:15:20
+kc65om,habitual_sleeper,How VIM's persistent undo saved my vimrc,54,151,0.99,,2020-12-13 17:57:23
+kc9ly5,mileslimes,"Vimprovement - online vim meetup, 5th event",21,50,0.96,,2020-12-13 23:12:24
+kc98sc,Jorengarenar,Make Vim obey XDG Base Directory specification,5,35,0.92,tip,2020-12-13 22:41:58
+kchos2,zanguine23,MacOS Auto-Set Background,12,7,1.0,,2020-12-14 07:09:38
+kcek0a,edo-lag,Learning Vim keybindings,27,4,0.83,question,2020-12-14 04:26:14
+kcjr9h,ghiste,correcting jumping mistakes,6,1,1.0,,2020-12-14 08:57:06
+kc6460,thusspoketheredditor,"I have this weird issue with vim-airline, does anyone know how I can fix this?",7,6,0.69,question,2020-12-13 17:53:43
+kcbajc,quitealuckyguy,How to paste input in external command of Vim?,8,1,0.67,,2020-12-14 01:15:25
+kbse9l,Complex_Cat_2331,setlocal statusline,5,29,0.95,,2020-12-13 03:55:16
+kbthg1,cdb_11,Actually secure exrc,0,22,1.0,,2020-12-13 04:56:57
+kbuv24,boris_b1,What are the good applications of automatic marks and jumps?,6,6,0.72,,2020-12-13 06:11:53
+kc3yw2,Mohitds96,Having problem in Android Studio ideaVim plugin,8,0,0.29,question,2020-12-13 15:12:13
+kbcd2y,kakipipi23,Any advice for a Vim noob?,108,62,0.94,,2020-12-12 09:01:15
+kbfzgh,Fedja_,Return back from non jump-motion motion?,4,14,0.84,,2020-12-12 12:31:17
+kbc48p,MagisterHegoDamaskII,C completion,12,8,0.9,question,2020-12-12 08:48:28
+kb09c3,,vimawesome.com is vulnerabled to CVE-2016-2107,13,46,0.89,,2020-12-11 21:22:07
+kb4qir,Conversation_Extra,TIL you can increment an entire list of numbers at a time,28,9,0.63,,2020-12-12 02:21:57
+kb6kiq,geffsk,File listings in netrw with Microsoft's OneDrive,3,8,0.91,,2020-12-12 03:59:26
+kb3e4e,Ok_Specialist_458,Undo accidental fat finger movement.,7,8,0.85,,2020-12-12 01:05:48
+kadtbe,Principal_Cookie,Reality,61,1134,0.97,,2020-12-10 22:35:40
+kb99r3,yramagicman,VsCodes new release includes features Vim has had for decades.,21,0,0.39,,2020-12-12 06:19:02
+kaedj9,ryuta69,Implemented fzf-preview.vim with git-delta in vim.,31,49,1.0,plugins & friends,2020-12-10 23:22:46
+kaw3ld,SandyDesertRat,UltiSnipes Configuration,5,1,0.67,,2020-12-11 15:54:30
+kb0hxb,RainyCloudist,Vim Community Discord,0,0,0.4,,2020-12-11 21:42:09
+kau0e2,iamaperson3133,Another .vimrc,24,1,0.67,,2020-12-11 13:47:47
+kas5ie,yikesohmy,Issue with auto-completing quotes,2,1,1.0,,2020-12-11 12:02:56
+kaka0k,lejboua,How to make command output colorized?,5,3,1.0,question,2020-12-11 04:58:37
+kafxam,jwworth,TIL: Restore from Diff in Vim with vim-fugitive,1,5,1.0,,2020-12-11 01:12:03
+ka3mqa,huydotnet,"Espresso Tutti - Too many dark themes, so here's the light one",10,57,0.92,plugins & friends,2020-12-10 10:43:16
+kao01h,bognovogomira,Annoying glitch that leaves movement command traces on text and types double letters randomly,3,1,1.0,,2020-12-11 07:55:20
+kaier8,LoneHoodiecrow,Unlimited Power,2,1,0.53,,2020-12-11 03:28:14
+kag28r,wavefunctionp,Do you remember the first time you reached for VIM over the alternatives?,10,2,0.75,,2020-12-11 01:20:48
+k9qcz2,aonemd,kuroi.vim: A dark Vim colorscheme,31,169,0.98,plugins & friends,2020-12-09 22:37:36
+kah740,cbartlett,A secure way to have project-specific .vimrc files,10,1,1.0,,2020-12-11 02:25:35
+ka483m,chillysurfer,"Is there a way for the preview window to ""overlay"" instead of push the main buffer?",4,13,1.0,,2020-12-10 11:15:37
+kae4km,bognovogomira,Good light counterpart to Nord colorscheme?,2,1,0.67,,2020-12-10 23:02:23
+k9seiq,shewel_item,useful or unknown ctrl shortcuts,24,34,0.89,tip,2020-12-10 01:05:58
+kaak62,slowens-dev,Using a given plugin only in certain file types,16,1,0.67,,2020-12-10 17:51:22
+ka3dla,ldelossa,Vimdark - a minimalistic dark (and light) theme.,4,2,1.0,,2020-12-10 10:28:58
+ka27x8,chillysurfer,Python indents by 8 when it should be 4,4,2,0.75,,2020-12-10 09:26:53
+k9u0hx,gurraman,lore -- yet another dark color scheme,1,5,0.78,plugins & friends,2020-12-10 02:38:11
+ka54b4,import_n,Pink/red airline theme,0,0,0.33,,2020-12-10 12:05:46
+k9pjcm,teslawasahero,Automatic newline when writing LaTeX,8,9,1.0,,2020-12-09 21:28:25
+k9wu9o,Mdsp9070,"There`s a contrary of ""iskeyword""?",2,2,1.0,question,2020-12-10 04:58:49
+k9qkno,mansetta,Help setting paths in relation to $VARIABLE,6,6,0.87,,2020-12-09 22:54:56
+k94ea8,ImMaaxYT,TIL that you can exit Vim by pressing Shift+ZZ,70,195,0.92,did you know,2020-12-09 00:44:39
+k9mwem,PacoVelobs,TIL J acts as j bit on multiple lines.,27,7,0.67,,2020-12-09 17:42:47
+k9i89u,WiggyWare,How can I turn off the MacOS specific remappings in MacVim?,8,4,0.75,,2020-12-09 12:47:12
+k8uqwp,deat64x,"Story about a new coder seeing a ""vim pro"" and being inspired to use vim.",20,99,0.95,,2020-12-08 12:46:58
+k9k2it,tom-on-the-internet,Make a New File in the Current Directory,13,0,0.45,,2020-12-09 14:34:36
+k9lvhl,flambok,I hosted this workshop in Python and ElasticSearch And I want your honest feedback on it,3,0,0.13,,2020-12-09 16:28:48
+k9anxz,lakrau,Vim setup for c++,6,0,0.33,,2020-12-09 06:10:09
+k9f4vf,Valentino00000,Struggling with cursor movement in vim,13,0,0.33,,2020-12-09 09:54:22
+k95ld0,OMGZwhitepeople,Way to indicate where folds reside when open?,4,2,0.75,,2020-12-09 01:56:48
+k999my,phouchg42,[Gnome][GVim] There is a huge delay on updating title bar after closing FZF,1,0,0.5,tip,2020-12-09 05:03:15
+k8lsfy,tom-on-the-internet,Please help me understand %:h,7,28,0.97,,2020-12-08 05:04:55
+k9587x,Top_Masterpiece_67,N-vim on smartphone,4,0,0.22,,2020-12-09 01:35:37
+k8y8fl,itcouldbebunnies_,vim-projectionist help: Finding a file with a different path,2,0,0.5,,2020-12-08 16:21:58
+k8w6gg,raguy1143,How to move through jump list of coc and remove some of them,6,1,0.67,question,2020-12-08 14:11:04
+k8vcm8,raguy1143,How to show errors in line?,10,0,0.5,question,2020-12-08 13:22:17
+k8u3kk,windows_sans_borders,sed syntax highlighting in vim?,3,0,0.5,,2020-12-08 12:09:04
+k8l6wn,baldore,Is there a plugin like Karabiner Elements + Goku?,4,3,1.0,,2020-12-08 04:37:00
+k7sm87,mulholld,SplitJoin: a Vim plugin for converting one-liners into multi-line statements,9,132,0.99,,2020-12-06 23:03:59
+k8e5wa,OnThePath,c++ Code navigation (ALE),5,2,1.0,,2020-12-07 21:25:43
+k8f82u,raguy1143,How do I show the function details on autocomplete?,4,1,0.67,question,2020-12-07 22:48:07
+k7scjv,arp242,"runbuf.vim: run the contents of a buffer in psql, python, bash, etc. and display the output",14,46,0.89,,2020-12-06 22:42:24
+k8cgo5,Chromabi,General technique for looping over characters/words in a line?,13,0,0.5,,2020-12-07 18:58:52
+k7w0gy,Maskdask,A simple function for zooming in GUI version of Vim/Neovim,1,8,0.79,tip,2020-12-07 02:48:36
+k8mpwt,lordnimnim,stop please rethink ur life and realize that u should use emacs,16,0,0.18,,2020-12-08 05:49:41
+k76shf,supermario9590,Really Google?,51,762,0.97,,2020-12-05 23:40:03
+k7xz5a,baldore,Is there a way to make this keybinding to work? <C-x><C-p><C-n>,4,2,1.0,,2020-12-07 04:32:36
+k7kshz,drzel,vim-scroll-in-place - Scroll up and down one line while keeping the cursorline in place,30,14,0.89,plugins & friends,2020-12-06 13:08:27
+k7qzhg,wetter-frosch,"Any tips on ""How to secure your vim""?",12,3,0.67,,2020-12-06 20:49:27
+k7req0,karoliskoncevicius,Advice about preventing accidental deletions while scrolling with <c-d> ?,9,1,1.0,question,2020-12-06 21:25:10
+k7onlr,aafggfcgr,How to edit blowfish2 encrypted files?,1,2,1.0,question,2020-12-06 17:35:40
+k7li5r,TheFronkler,How to get the name of the file opened for a mapping,5,3,1.0,,2020-12-06 13:54:14
+k7gbii,BYTE-LY,do you want indentation guides?,8,5,1.0,tip,2020-12-06 08:37:41
+k7kcgk,archaea8,Buffer with netwr refreshes when I navigate to it,8,1,1.0,,2020-12-06 12:40:11
+k7c8jo,ProgMetalSlug,Are tear-off menus an abandoned feature?,2,3,1.0,,2020-12-06 05:01:47
+k7iiyj,SirDerpington660,Noob question: how do I get my airline status line to look like the one on the airline GitHub? (With the separators being arrows instead of lines),8,0,0.5,,2020-12-06 10:46:27
+k75asa,Curious_homosepian,How to get different cursor for different modes in vim?,13,8,0.79,,2020-12-05 21:33:37
+k7bijo,NightH4nter,How do I configure plugins using highlight colors?,7,2,0.75,,2020-12-06 04:24:30
+k75sp3,wetter-frosch,How to get language-mapping & iminsert working on GTK gvim?,1,4,1.0,question,2020-12-05 22:18:06
+k75oq6,Monenvoy,How to expand html tags like this?....,14,3,1.0,,2020-12-05 22:08:23
+k7atk5,gammalabsgamer,Is there anyway to make a vscode theme work with vim?,11,1,0.67,question,2020-12-06 03:48:08
+k7leoe,SirDerpington660,update from my last post:,1,0,0.21,,2020-12-06 13:47:54
+k7fdr3,okimka,How to use vanilla Vim (almost) without modes.,9,0,0.29,did you know,2020-12-06 07:44:39
+k6my75,mgarort,How to search without highlight just once?,15,13,0.88,,2020-12-05 02:27:41
+k6uh2b,tads13,Advantage2 LF Kinesis,6,1,0.56,,2020-12-05 08:53:32
+k6pyz3,Manaoscola,"i want RShift to emulate Esc in insert mode, how can i do that ?",8,2,0.67,,2020-12-05 05:00:06
+k60da0,Coder-H,Best Vim Tutorial For Beginners,101,62,0.84,guide,2020-12-04 03:24:14
+k5tyge,trankien386,How to display paste mode or insert-normal mode (Ctrl-o in insert mode) on statusline?,11,39,1.0,question,2020-12-03 20:13:32
+k6a952,_nullOne,[C++] cin doesn't work in vim,5,0,0.5,,2020-12-04 11:40:00
+k5u3qz,Jorengarenar,syntaxMarkerFold - Markers while using syntax fold method,3,12,0.83,,2020-12-03 20:27:22
+k5twce,PresentPickleNinja,Switching esc with caps lock,30,6,0.71,,2020-12-03 20:08:13
+k5630p,HeavyRain266,Salvation - Dark and easy on eyes colorscheme for Vim/Neovim,43,247,0.97,,2020-12-02 20:18:39
+k5fu2z,kn0xchad,Adding highlight group to python syntax file,10,14,0.94,question,2020-12-03 06:04:08
+k5p395,acomagu,"The help says '--remote' command line option exists, but don't work. What is this?",6,3,1.0,question,2020-12-03 14:10:49
+k5aqca,rampion,Shorter version of today's tip from 25 Days of Vim,12,20,0.95,,2020-12-03 01:59:18
+k5tv2q,jdhao,Set up vim/nvim for cpp development with vim-lsp,0,0,0.38,,2020-12-03 20:04:55
+k4nzz8,tasmo,Humanoid - light and dark theme for vim with bright colors (hope some will like it),82,503,0.99,plugins & friends,2020-12-02 03:17:49
+k5inso,chrismg12,Any reliable way to convert airline themes to powerline?,4,1,1.0,,2020-12-03 08:17:56
+k4mmkz,phouchg42,Emoji in Vim 🐇 🎩,2,19,0.86,tip,2020-12-02 02:10:12
+k4vghv,metalgear123,Noob question: How to set python interpreter for a given script dynamically.,11,5,1.0,,2020-12-02 09:12:12
+k4tilk,bayesff,where would i hire someone to build/modify a vim plugin?,4,4,0.65,,2020-12-02 07:36:40
+k4lifv,VohgheN8,Is there a way to make ex not take over the whole screen?,27,15,0.95,,2020-12-02 01:09:22
+k4yqhu,gdavtor,Hotkey to simultaneously duplicate a line and replace a substring,9,1,1.0,,2020-12-02 12:07:33
+k4p9eo,MyMumFoundMyAccount,Vimwiki on mobile devices?,5,4,1.0,question,2020-12-02 04:17:43
+k4q1i0,EgorDiach-kov-,How to make vim become transparent in konsole,1,2,0.76,question,2020-12-02 04:53:47
+k4j44j,DontwakemeUp46,Creating different colors with :hi-link,1,6,1.0,question,2020-12-01 22:24:45
+k4ssgy,vaklinzi,Destructuring in React adds new line (issue),2,0,0.5,,2020-12-02 07:02:14
+k3vgus,cbartlett,"25 Days of Vim, a Vim Advent calendar by VimTricks",39,267,0.97,,2020-12-01 00:10:31
+k4pg92,arnauldb,Error in Fzf install in Vim,4,1,0.6,,2020-12-02 04:26:32
+k4p8c4,GGCristo,8 months trasnformation,11,0,0.42,,2020-12-02 04:16:14
+k4niej,bobicino,"Why do ""undoreload"" save all lines?",0,1,1.0,,2020-12-02 02:54:28
+k4513m,yazgoo,unicodemoji: a plugin for fast unicode emoji insertion based on FZF,6,28,0.98,,2020-12-01 07:55:58
+k4a8aj,gasull,vim-orgmode is unmaintained; any alternatives?,10,13,0.94,,2020-12-01 12:16:30
+k4cpy5,Jorengarenar,SQL-UPPER,7,5,0.78,plugins & friends,2020-12-01 14:34:59
+k4jhlw,wiccy47,Can you recommend a lines formatting plugin?,16,0,0.4,,2020-12-01 22:54:29
+k4mq4j,drzel,critique my vimrc,15,0,0.36,,2020-12-02 02:15:21
+k47zab,Zantoxin,':startinsert' but for command mode?,3,2,1.0,,2020-12-01 10:18:55
+k4bqz5,SirDerpington660,how to change vifm's startup command?,14,0,0.4,,2020-12-01 13:40:43
+k45q5m,abraxasknister,Are there native `Meta` keybinds?,8,1,0.57,,2020-12-01 08:29:22
+k3vrxn,siduck76,Nerd tree background color,7,3,0.8,,2020-12-01 00:29:40
+k3ar3i,dys_bigwig,coc-vim + haskell-language-server starter tutorial 2020,8,78,0.94,,2020-11-30 02:02:50
+k3vng7,MeanEYE,GVim freezing,2,1,1.0,question,2020-12-01 00:22:04
+k3mkgf,ButtsOfficial,Terminal errors causing random problems,6,4,0.83,,2020-11-30 13:06:19
+k3jv61,comploplo,arbitrary go to middle meta-movement,7,5,0.78,,2020-11-30 10:25:23
+k3cvvj,anotherdiamondday,Best spellcheck plugin for text editing?,4,8,1.0,,2020-11-30 04:05:23
+k3ii1f,f---_society,Macro aware plugin,4,2,1.0,question,2020-11-30 09:09:55
+k3cr2l,nolomg18,lightline base16-vim integration Plugin.,2,6,1.0,plugins & friends,2020-11-30 03:58:41
+k2quxw,ryuta69,Created a new theme [elly.vim] which is brown and nostalgic,44,255,0.97,plugins & friends,2020-11-29 03:44:57
+k3do4z,tea_thou,VIM auto complete or IntelliSense for Java and python.,14,2,0.75,,2020-11-30 04:46:47
+k3ata2,supersonic_528,Jump to a new string without disrupting existing search results,24,2,1.0,question,2020-11-30 02:06:33
+k3n2ov,NinjaNegro123,"The official Vim installer for Windows, does it have viruses!?",14,0,0.29,,2020-11-30 13:38:13
+k376ub,Plazmotech,Ignore user mappings (noremap) but allow recursive mappings for <Plug>...,10,2,1.0,,2020-11-29 21:19:20
+k2udhz,SirDerpington660,"People to use Vim on windows, what do you do to make your set-up as clean as a macOS or Linux user?",25,2,0.67,,2020-11-29 06:54:37
+k2mc9p,zdm-red,How to focus next window but ignore some filetype file,12,7,0.89,,2020-11-28 22:44:30
+k2hao1,virtualworker,Scrolling commands behaving strangely,3,23,0.93,question,2020-11-28 15:37:49
+k2v2ke,jamJam20,How to only activate highlight autocmd,2,0,0.5,,2020-11-29 07:32:57
+k1ydpn,-olivier,"A guide on how to copy text from anywhere, including through SSH, with OSC52",46,164,0.99,guide,2020-11-27 20:53:57
+k286nq,abraxasknister,Is there a way to quickly reject a completion?,9,22,0.91,question,2020-11-28 06:46:03
+k2fml1,easyasasunday,how to set python interpreter differently for different files,2,3,0.64,,2020-11-28 13:54:12
+k2dzgg,please_take_one,Frequency at which vim writes the undofile (:help persistent-undo) to disk,5,4,0.71,question,2020-11-28 12:16:36
+k2n8z7,aganm,"vim, C, clangd, coc, and compound literals (code completion)",5,0,0.33,,2020-11-28 23:59:14
+k22yw8,handyjuanito,Is there a Latin language spellfile?,9,10,1.0,question,2020-11-28 02:18:31
+k1ucs7,ajaymahar,Is there any vim plugin for debugging Python code ?,10,18,0.91,question,2020-11-27 15:31:41
+k1iv70,jwworth,My Annotated Vimrc,62,91,0.92,,2020-11-27 04:02:23
+k1xagz,verycoolbin,Ultisnips Latex math context detector not working,17,5,1.0,,2020-11-27 19:19:02
+k24rqd,ilove-archlinux,tab key does not work on search suggestions in coc.nvim,1,0,0.5,,2020-11-28 03:53:44
+k1we1y,Narfee,Help with getting vim to run more quickly with python and java.,8,5,0.86,question,2020-11-27 18:04:57
+k2agmw,techguy1749,Is there a Vim Color Scheme similar to this?,7,0,0.4,question,2020-11-28 08:50:23
+k1bz8l,CalinLeafshade,How to get faster in Vim.,38,131,0.94,,2020-11-26 20:06:00
+k1rk85,Ok_Eye_1812,"Vim doesn't flag ""int"" as a spelling mistake",3,2,1.0,question,2020-11-27 12:16:49
+k0zzv6,mrillusi0n,"[TIL] People on macOS, you can map Caps Lock to Escape from System Settings.",72,275,0.93,tip,2020-11-26 07:18:40
+k1oz63,aiaor,What regexp would match lines that have foo and don't have bar later on the same line?,10,2,0.75,,2020-11-27 09:36:10
+k1phgj,Bitter_Day9495,Key mapping,10,0,0.5,,2020-11-27 10:06:20
+k1g9ez,Egst,<Esc>? moves left one character,9,3,1.0,,2020-11-27 01:37:18
+k1t2vh,SneharshBelsare,Coc.nvim creating '~/. config' in every directory I open vim,9,0,0.25,,2020-11-27 14:00:24
+k18fuf,iamjohnlenn,"A Guide to VIM: What is VIM, Why is VIM, How to configure VIM",5,10,0.76,,2020-11-26 15:36:46
+k10psl,jdalbert,How to convert smart quotes and other fancy characters to normal characters,5,37,1.0,,2020-11-26 07:57:13
+k1d3zv,entivec,How can I set space bar as a leader key?,18,2,0.75,,2020-11-26 21:43:12
+k1nta5,bluebird173,you know its true,11,0,0.42,meta,2020-11-27 08:30:17
+k1c63f,Psy_Blades,Should the filetype option be set by the time the BufReadPost autocmd is running?,6,1,1.0,question,2020-11-26 20:22:01
+k0tti3,llPatternll,Better Markdown syntax highlighting?,22,23,0.87,,2020-11-26 02:09:07
+k17ver,0nly0dd0ne0ut,Remapping keys within commands,8,2,1.0,,2020-11-26 14:57:39
+k18nbv,justrajdeep,Question about configuring fzf with fzf#vim#ag_raw,2,0,0.5,,2020-11-26 15:51:19
+k0c7se,lervag,[ANN] Vimtex v2.0,35,359,0.99,plugins & friends,2020-11-25 06:44:32
+k183tt,Waseem_Ahmed,Is there any Proper Guide/tutorial for ycm,10,0,0.33,guide,2020-11-26 15:13:20
+k0t2h6,ProgMetalSlug,Where can I find a French translation of the help files?,13,5,0.74,,2020-11-26 01:24:54
+k12r0k,andrewlkho,How to get last cursor position of unopened file,2,1,1.0,,2020-11-26 09:40:42
+k0pusn,Maskdask,Is there a program like screenkey that is Vim-aware?,7,6,0.76,question,2020-11-25 21:34:42
+k0ssjh,emax-gomax,Bind key in internal pager?,7,3,0.67,,2020-11-26 01:08:14
+k0wg80,eekofo,Vim Broken Since Big Sur Update,13,1,0.6,,2020-11-26 04:26:05
+k0jw0b,Jorengarenar,MvVis,4,10,1.0,plugins & friends,2020-11-25 14:06:07
+k0p34u,Leskille,add a backspace ultisnips,2,2,1.0,,2020-11-25 20:30:19
+k0jjqp,eat_those_lemons,Understanding Plugin Commands,10,7,0.89,,2020-11-25 13:43:54
+k0qqb4,bocadillo_sin_pan,Can't write any of my symbols located in the numbers,3,1,1.0,,2020-11-25 22:44:11
+k0n51q,Elmyder,"Enclosing visual block in brackets, etc.",4,2,1.0,,2020-11-25 17:54:49
+k0azv4,Northstat,How to run shell commands in a horizontal temporary split?,13,12,0.88,question,2020-11-25 05:45:21
+k0nd75,zstix,"ex commands in popup ""window""?",7,0,0.33,,2020-11-25 18:11:53
+k01f69,abraxasknister,Unconditional linewise or characterwise pasting,20,22,0.97,did you know,2020-11-24 19:47:23
+k0ht9n,dddbbb,Opening quickfix for where last line is more relevant (python)?,9,1,1.0,question,2020-11-25 11:54:11
+k0gg53,arnauldb,Vim-startify don't remember previously opened files,3,1,0.67,,2020-11-25 10:32:44
+k0eif3,PostingPenguin,Autocompletion with pregenerated c_cpp_properties.json,6,1,1.0,,2020-11-25 08:44:12
+jzkw6g,jdhao,A improved mapping to leave insert mode than jk or kj or jj,134,85,0.89,,2020-11-24 03:32:58
+jz2jlq,ab12gu,Should have been the esc key,28,458,0.96,,2020-11-23 07:12:45
+jzjbdd,crypto-pickle,COC auto suggestions are stuck on the screen,6,7,0.82,,2020-11-24 02:10:40
+jzkmd0,yellowseptember,Highlighting Issue. How Can I Fix This?,5,5,1.0,,2020-11-24 03:18:53
+jz317n,ShayD7118,"Am I the only one who involuntary shouts out ""YANK"" in the head whenever I tap 'Y' ?",21,29,0.79,other,2020-11-23 07:39:16
+jzic6k,Bilboballin,how do i get gruvbox for my gnome terminal,2,0,0.5,,2020-11-24 01:15:13
+jzhs5r,entivec,How can I remove this margin/space at the bottom of vim window in Onedark theme?,4,1,1.0,,2020-11-24 00:41:04
+jzgkhe,RingoRangoRongo,Automatically go top of the buffer after calling term_start?,4,1,1.0,,2020-11-23 23:16:50
+jz2eyk,lonesword_,VimCharm - approximating PyCharm on Vim,10,12,0.84,,2020-11-23 07:05:45
+jyunfc,progsNyx,I am writing a digital book about Vim.,13,41,0.77,other,2020-11-22 23:07:02
+jzd9xu,yet-another-tim,Browser/Extension with Vim Insert/Input Mode,29,0,0.33,,2020-11-23 18:34:54
+jzc0ka,No-Idea5409,Alduin Vim Theme for Terminal?,2,1,1.0,,2020-11-23 16:54:04
+jz3r00,periperidip,Trying to shift from VS Code to Vim. What to configure as a starter pack?,12,2,0.75,question,2020-11-23 08:18:17
+jyh84x,mrillusi0n,"Hope I did not ""wim"" this time.",33,132,0.97,tip,2020-11-22 06:47:56
+jz4mq5,kress5,How to prevent line numbers with :print,4,1,1.0,question,2020-11-23 09:05:20
+jyxi5g,metyaz,urlview.vim - List and open URLs easily,6,3,0.81,plugins & friends,2020-11-23 02:34:11
+jyvw5t,mcmoor,Broken paste?,7,4,1.0,question,2020-11-23 00:47:29
+jz6yes,NotBleachLol,"RopeVim, how to test if it's working?",10,0,0.25,,2020-11-23 11:21:00
+jystzl,,Should I learn Emacs?,45,6,0.69,,2020-11-22 20:14:54
+jyzvzs,Sinbad_07,How to change current word to uppercase from insert mode?,16,1,1.0,question,2020-11-23 04:48:38
+jyzqk1,zonzon510,Undo stops working in vim,9,0,0.25,,2020-11-23 04:40:38
+jypvxk,kontinuity,How I got used to Vim,9,5,0.86,article,2020-11-22 15:54:40
+jyuxu3,crashing_human_API,Selective bracket completion,4,1,0.67,question,2020-11-22 23:31:57
+jyt2r7,CP999-,Any Tutorial on how to create a Vim-like editor from scratch?,12,2,0.57,,2020-11-22 20:39:14
+jymguv,Atralb,"Is there a plugin that implements operator-pending motions for constructs/loops ? (`if`, `for`, `where` etc...) ?",14,4,1.0,,2020-11-22 11:59:40
+jysa3u,Emotional-Savings-80,Help for installing vim plugin in Win10,2,0,0.33,,2020-11-22 19:20:32
+jyc5yw,ZhiyuanLck,Sharing my plugin vim-float-terminal,7,21,0.97,,2020-11-22 02:04:22
+jy0twq,alajmo,"Pinto, an application to create Vim themes in the browser",53,292,1.0,,2020-11-21 11:16:43
+jybsp0,abraxasknister,Don't open new window for help,21,2,0.75,,2020-11-22 01:40:54
+jy83sq,AsianDaggerDick,My pinky finger weak af,14,4,0.75,question,2020-11-21 20:35:12
+jyih2t,she__codes,New here!,20,0,0.3,,2020-11-22 08:00:13
+jyak1c,GedeonSpilett,inserting filename in uppercase,4,1,1.0,,2020-11-22 00:16:32
+jxqyvr,Ga_Jani,I'm trying termux+vim+Python combination on Android! But this error won't let me in to insert mode! Help please?,32,33,0.77,question,2020-11-21 02:24:30
+jy34xj,zambodian2,Pasting into external applications from vim,9,3,0.72,question,2020-11-21 13:46:08
+jy62uv,Dosx001,Different Syntax for different filetype,11,2,0.67,,2020-11-21 17:22:57
+jyh25s,Rare_idiot,Can anyone share me a link of Vim video tutorials to learn vim and use it for competitive programming in C++,8,0,0.2,question,2020-11-22 06:38:43
+jy7mr4,ennmichael2,Anybody know the name of this theme?,2,0,0.5,,2020-11-21 19:47:37
+jxteeu,adgad137,Using Obsidian with Termux and VIM,5,15,1.0,,2020-11-21 04:30:17
+jxi456,ASIC_SP,Vim Kōans,23,68,0.92,article,2020-11-20 15:00:37
+jy84te,Rare_idiot,What do you use Vim for?,10,0,0.25,question,2020-11-21 20:38:04
+jy1kkw,ferulebezel,Probably a stupid regex question.,8,1,0.67,question,2020-11-21 12:03:35
+jy83ov,Rare_idiot,Which language do you use on Vim?,8,0,0.2,,2020-11-21 20:34:52
+jxvjde,zonzon510,vimscript for navigating long complex functions,5,2,1.0,,2020-11-21 06:19:55
+jxugh3,kn0xchad,Setting custom textwidth to all files,2,2,1.0,question,2020-11-21 05:23:27
+jxel6n,_banafish,Has anyone tried ViEmu for Word?,27,39,0.95,,2020-11-20 11:11:36
+jxo1pw,abraxasknister,ftplugin question,12,3,1.0,question,2020-11-20 23:20:07
+jxuasn,GeroSchorsch,What vim plugins for Flutter development?,4,0,0.5,,2020-11-21 05:15:26
+jxhfmc,cbartlett,Extract selected lines to another file with :w,10,15,0.9,tip,2020-11-20 14:13:26
+jxki4n,IGTHSYCGTH,notetaking in vimwiki,2,6,0.88,,2020-11-20 18:03:34
+jxtmvp,bloztaki,vim or nvim in vscode,2,0,0.33,question,2020-11-21 04:42:02
+jxp036,jamJam20,Any ideas for appending to json file with vimscript?,15,1,1.0,,2020-11-21 00:28:21
+jxuh3m,0ryX_Error404,Having Trouble Compiling Vim with Python3.6,12,0,0.29,,2020-11-21 05:24:21
+jxjd9t,nikki93,"Apply a substitution regex, but only in the ""view"" and not in the actual document (bonus allow toggling application easily)",8,2,1.0,,2020-11-20 16:30:30
+jxlws9,danielo515,Is there any DSL or library for text editing as powerful as vim?,7,1,1.0,,2020-11-20 20:12:07
+jws0f4,normenh,WhatsCLI WhatsApp client,101,184,0.97,,2020-11-19 11:19:08
+jx8qxi,tonyZ345,Scrolling is too fast with mouse=a,11,1,0.67,,2020-11-20 05:54:59
+jx0dwl,Astro_Z0mbie,Difference between moving down or up,3,3,1.0,question,2020-11-19 21:28:39
+jx1qzj,tognols,I need help to found this colorscheme please? ;-;,12,2,0.76,question,2020-11-19 23:23:21
+jwjs15,eyun89,What is the most VIM-like email client?,43,68,0.93,question,2020-11-19 04:14:06
+jx4o0h,3XM25,Weird colors on vim,6,1,0.6,,2020-11-20 02:26:31
+jx9397,Wafelack,"Vlugger, a plugin manager",4,0,0.38,plugins & friends,2020-11-20 06:11:59
+jx2mld,gregorie12,Any xcape users? Bind more than just Ctrl? Enter key as modifier...,4,1,0.67,,2020-11-20 00:25:43
+jwzpt6,JWT721,Vimwiki: Question about VimwikiGenerateLinks command,0,2,1.0,,2020-11-19 20:27:44
+jwzjr6,kantord,Is there a way to autocomplete previous insertions and selections?,5,2,1.0,question,2020-11-19 20:11:37
+jwza2o,the1derer,Best plugins for customisation of Brackets,12,0,0.5,question,2020-11-19 19:46:19
+jwyzpe,ruinozeros,Neovim as C/C++ IDE: how do deal with include paths?,8,0,0.5,question,2020-11-19 19:20:27
+jwiuk6,sam-barr,Help creating macro to speed up spellchecking,24,14,1.0,question,2020-11-19 03:26:42
+jwru9k,tucnak,Vim only matches syntax strings if there's at least a single latin character?,8,1,0.67,question,2020-11-19 11:09:27
+jw7o63,dramsde1,Pasting from host to vim inside docker container,19,37,0.95,,2020-11-18 13:51:11
+jwgzbs,K41eb,How do I protect my highlight groups from clearing?,3,2,1.0,question,2020-11-19 01:43:23
+jvrx0k,nikolalsvk,Improving Vim Workflow With fzf,48,119,0.98,,2020-11-17 23:09:42
+jvq1y1,rickdg,Why I use Vim and suck at it,30,68,0.9,article,2020-11-17 20:21:55
+jw89rt,Vxqui,Best cheatsheets/tutorial vids on vim?,19,2,0.6,,2020-11-18 14:29:11
+jw4i00,SuccessfulElk,Can I choose cursor position for Go to definition?,6,3,0.81,,2020-11-18 10:43:11
+jvxftv,don_stinson,"Anything like like TabOut function for Visual Studio, to exit pairs/closings?",14,6,1.0,,2020-11-18 04:42:10
+jvrifb,MagicCarot,Find usage in python code source,7,9,0.92,,2020-11-17 22:34:58
+jvcqjw,GeroSchorsch,Why is my Sonokai color scheme only displaying so little colors even though I'm using vim-polyglot?,43,96,0.95,,2020-11-17 06:02:50
+jvsr9q,RedditUser762005,https://github.com/vim-scripts/AutoComplPop not working for me,8,2,0.67,,2020-11-18 00:14:04
+jvye0n,erick_pythonist,"""+ register not working",8,0,0.5,,2020-11-18 05:30:25
+jv2ci2,kiwisniper69,Let Vim do the typing - completion without plugins,12,126,0.96,guide,2020-11-16 17:53:49
+jvpt9i,TGdZuUsSprwysWMq,How to install vimspector from scratch,10,1,0.67,,2020-11-17 19:58:55
+jvm2nd,8E4F787A43D3807E9EA2,Closure/Block-based highlighting?,6,2,1.0,plugins & friends,2020-11-17 14:54:24
+jvb4t5,Bitter_Day9495,Can copy whole .vim folder to other PC?,19,13,0.84,,2020-11-17 04:40:57
+jvaqmh,ilbanditomonco,Small Tip: Run macOS QuickLook for the file under the cursor with vim-dirvish,3,12,0.93,,2020-11-17 04:20:59
+jv4frw,_-_Specter_-_,Learn Vimscript the Hard Way - A great resource for learning Vimscript,0,24,0.85,,2020-11-16 21:12:11
+jv3oz2,ilyachur,CMake4vim - Plugin which integrates CMake into Vim,21,21,0.9,,2020-11-16 20:00:15
+jusag6,daliusd_,Typescript and ALE,16,53,0.96,,2020-11-16 06:59:37
+jv60hb,yudhiesh,Every time I save a typescript or javascript file using coc it duplicates the last line for some reason. Any idea how I can solve this?,4,1,0.67,question,2020-11-16 23:33:43
+junl5f,jdhao,A guide on creating your own text objects.,5,34,0.92,,2020-11-16 02:30:02
+jv4nig,rakeshShrestha,"Having problems with coc vim, eslint and prettier?",2,0,0.4,,2020-11-16 21:33:05
+jv3hkd,mrillusi0n,How can I make vae to visually select everything in the buffer?,17,1,0.67,question,2020-11-16 19:40:05
+jv0lj6,jamJam20,What `val >= 0 ? a:context.col : -1` expression mean?,1,2,1.0,,2020-11-16 15:34:41
+judfhp,shoopdewhoopwah,"Tip: What helped me getting used to up and down (k, j) as a beginner, was associating ""up"" with ""kup"" and down with ""jown""",58,180,0.92,,2020-11-15 12:25:28
+junvm6,,Make fzf detect project root and search from there,20,6,0.87,,2020-11-16 02:47:50
+juyv8a,jtuzp,SPF13-Vim fork with modern tools,2,0,0.36,did you know,2020-11-16 13:34:48
+juhh0t,khanhdc96,Reviving VT220 Aesthetic,5,8,1.0,other,2020-11-15 17:26:18
+jum71f,_fishysushi,FZF :Files unreadable colorscheme.,6,2,1.0,question,2020-11-16 00:53:59
+jupm2w,faizan_20,why the wierd spacing around the corners? Is it coming from treminal padding? How to fix?,12,0,0.38,,2020-11-16 04:29:18
+jucupt,GeroSchorsch,Is there a way to start vimspector without the hassle of creating a .vimspector.json file everytime?,4,9,0.91,,2020-11-15 11:47:39
+ju18p7,roy2220,vim + easyjump.tmux > vim-easymotion/vim-sneak,14,84,0.99,,2020-11-14 23:30:27
+jugj1v,mrillusi0n,"I'm using goyo.vim, and I want to make those arrows at the bottom disappear. How do I do it?",12,2,0.67,question,2020-11-15 16:08:12
+ju1wfa,euw_psycher,"vim-remembers - a plugin that emulates Notepad++ ""remembering"" the contents of unnamed files.",6,49,1.0,,2020-11-15 00:26:14
+ju9cr1,ckangnz,Ctrl L stuck sometimes,12,6,1.0,question,2020-11-15 08:07:33
+ju1bni,greg0ire,History of the visual selection,5,14,0.95,tip,2020-11-14 23:37:26
+ju2esj,Zeioth,I want to share this real time markdown previewer I found,7,11,0.87,,2020-11-15 01:04:58
+jukuu4,CoreyYT,"[Neovim] How would i remap ZW to doing "":w""?",5,0,0.22,,2020-11-15 23:02:04
+ju6a5j,blay263,Customize quickfix highlight color,3,3,0.81,,2020-11-15 05:08:34
+judgun,PM_ME_UR_THONG_N_ASS,"colorscheme evening is too bright in terminal, but okay with gvim",2,1,1.0,question,2020-11-15 12:28:02
+jtnhzq,mrillusi0n,Vim Quickies! Here's something where Visual Mode is not a smell.,62,206,0.97,tip,2020-11-14 07:19:29
+ju9pc1,_fishysushi,Looking for IntellIJ Cyan like theme.,2,1,1.0,question,2020-11-15 08:28:53
+ju5fcc,johannesthyssen,Personalize you dotfiles with Signit!,3,0,0.5,,2020-11-15 04:17:36
+jtlkij,math2cs,Smallest Architecture to Run Vim on a Display,11,31,1.0,question,2020-11-14 05:45:58
+ju1rkj,trvlr8,Automatically Change Background based on `redshift` hook,3,1,1.0,,2020-11-15 00:15:19
+jtzsz7,feral-zebra,Manually mark sentences in an autogenerated transcript and reformat document,2,0,0.5,,2020-11-14 21:09:04
+jtpluq,SnooDonkeys2743,Close buffer but not the window,10,7,1.0,,2020-11-14 09:03:40
+jtsrya,muraii,Vim equivalent of Emacs pretty-mode?,2,2,1.0,,2020-11-14 12:09:55
+jtd0v3,yudhiesh,I just found out I can use VIM in Safari,22,49,0.9,did you know,2020-11-13 18:40:06
+jtloq3,lordtorrent,"Vim randomly lags and and stops working sometime when I either write a new file w/ a directory or create a new file with nerdtree, etc. Is there anything I can do to figure out what is causing this? The program doesn't say ""not responding"" and vim isn't actually crashing. (win 10 x64)",6,4,0.84,question,2020-11-14 05:51:47
+jtjmnu,_JJCUBER_,Is it possible to make [number] for a mapping only affect/repeat part of the keys?,21,2,1.0,question,2020-11-14 04:08:18
+jsv7lu,speckz,Why I Still Use Vim,90,209,0.96,meta,2020-11-13 01:09:55
+jt0e54,Steeli0,Vimcord - Vim plugin for discord rich presence,12,23,0.9,,2020-11-13 05:44:41
+jt29et,faizan_20,"I love vim, but is it for me? Student?",55,5,0.67,question,2020-11-13 07:16:16
+jso2gr,Smoggler,Vim-like Software,70,41,0.97,,2020-11-12 15:23:31
+jsaeo9,karoliskoncevicius,Vim's life-changing c%,50,370,0.99,,2020-11-12 02:44:41
+jsyue2,ghetto_man_,YCM,2,3,1.0,question,2020-11-13 04:27:55
+jsyr3k,banyek,For VIM's birthday - my .vimrc,9,2,0.67,,2020-11-13 04:23:30
+jst4uo,Ideuutti,Force sidebar on at all times,5,7,1.0,question,2020-11-12 22:36:14
+jsxws4,MyNameIsArko,How to pass arguments when using Termdebug?,0,2,1.0,question,2020-11-13 03:40:34
+jst7fn,PopovGP,String numbers and relative numbers at once,13,4,1.0,,2020-11-12 22:42:45
+jsv8cw,Galicarnax,Enable c++17 globally with coc.nvim + ccls,7,2,1.0,,2020-11-13 01:11:12
+jsugiy,iamasuitama,"command gf opens file as it is imported, not resolving ..",2,2,1.0,question,2020-11-13 00:21:06
+jsufzx,yudhiesh,NerdTree causes vim to be painfully slow.,16,2,1.0,,2020-11-13 00:20:07
+jsq31p,_-_Specter_-_,"Join lines, with second line going to the start of the first line",4,2,1.0,question,2020-11-12 17:55:18
+js7sa2,shaeinst,any good source to learn vimspector?,18,35,0.98,,2020-11-12 00:06:16
+jsiyku,b74584,Need to kick the vscode habit,28,4,0.84,,2020-11-12 10:16:43
+jsmxag,Slugsurx,highlight the current window,6,2,1.0,,2020-11-12 14:08:35
+jscfd4,Nitrodist,fzf.vim :BLines demo,7,9,0.92,plugins & friends,2020-11-12 04:28:34
+js6nos,Tagina_Vickler,How to play vimgolf without a twitter account?,14,18,0.91,,2020-11-11 22:41:22
+jrm2j5,ykonstant,Cleaner latex in Vim,52,398,0.99,tip,2020-11-11 01:40:00
+jsbf6j,Ok_Specialist_458,%s in visual selection mode,4,2,1.0,,2020-11-12 03:38:09
+js8ydr,expo_init,Starting with vim,5,3,0.72,,2020-11-12 01:21:37
+js9xyc,RafaMadriz,Vim Syntax Highlighting,7,2,1.0,,2020-11-12 02:19:14
+js6cmn,MyNameIsArko,How to escape quotation mark?,16,3,0.8,question,2020-11-11 22:14:54
+jsak06,string111,Custom colors for typedefs in C,3,1,1.0,,2020-11-12 02:52:44
+js0c4v,kiwiheretic,My VIM keyboard woes,23,5,0.86,question,2020-11-11 14:23:58
+js3gvq,alucardkoten,Neither <C-6> nor <C-^> work on mac,4,2,1.0,,2020-11-11 18:02:42
+jrasii,shirobachi,Vim cheatsheet w/ Q,38,404,0.97,,2020-11-10 12:01:06
+jrpzxz,Kantilo,Vimwiki,5,5,0.86,,2020-11-11 05:06:31
+jrpujp,lai32290,How to autocomplete path using alias root?,2,3,1.0,question,2020-11-11 04:59:04
+jrmx6f,import_n,Vim colorscheme,8,4,0.84,,2020-11-11 02:28:49
+jrvinf,GAAfanatic,Can you you format files using python installed modules rather than executables?,13,1,0.67,,2020-11-11 09:46:28
+jrmr7y,Jeehannes,Terminal-Normal and Terminal-Job modes,7,3,1.0,question,2020-11-11 02:19:46
+jr1yc5,javajunkie314,Modern IDEs are magic. Why are so many coders still using Vim and Emacs? - Stack Overflow Blog,236,148,0.82,article,2020-11-10 04:28:13
+jrhs9i,rock-emacs,Inserting the date in Vim in Windows 10,12,5,1.0,,2020-11-10 20:06:04
+jrl1iw,snowfrogdev,Best of both worlds,6,0,0.4,,2020-11-11 00:36:44
+jrh2d7,jamJam20,What are some usecase to utilize doautocmd?,5,2,1.0,question,2020-11-10 19:00:41
+jr9f9b,Atralb,Your choices of Vim Colorschemes for use in a Bare TTY ?,14,4,0.83,,2020-11-10 10:44:42
+jr4dmn,chillysurfer,How to get special characters/symbols for the gutter (warnings and errors)?,3,6,0.99,,2020-11-10 06:28:16
+jr17lg,ixlxixl,control characters in man,6,6,1.0,,2020-11-10 03:51:23
+jqetdr,Admiral_Smoker,Vim : Fights the toughest Grease.,22,291,0.79,,2020-11-09 03:46:08
+jr8tvn,banana_llarma,I want to make a function and I am having some problems with vimL,2,1,1.0,,2020-11-10 10:12:16
+jr0nub,justrajdeep,is it possible to pop out the vim floating windows?,3,4,0.83,question,2020-11-10 03:23:36
+jr18b3,acedyn,How to tell COC what extension to load according to the file extension,10,3,0.71,,2020-11-10 03:52:18
+jqwa2y,rushdabs,Ignore compilation errors while generating ctags file,5,3,0.72,,2020-11-09 22:53:25
+jrflot,unixbhaskar,These are the plugins I am using! what your's???,12,0,0.15,plugins & friends,2020-11-10 17:00:52
+jqvhra,hrsh7th,Published vscode-langservers-extracted package on npm.,1,4,0.7,,2020-11-09 21:47:24
+jqipse,KarlKani44,Meaning of the word vim,8,12,0.8,,2020-11-09 07:19:17
+jqogan,Atralb,How does a lower `updatetime` lead to better performances ?,5,4,1.0,,2020-11-09 12:48:15
+jqobul,Jorengarenar,miniSnip [ ~ let me know how it's doing after refactoring ~ ],0,4,0.83,plugins & friends,2020-11-09 12:40:45
+jqkp27,schadonis,What is your visual appealing latex set up?,7,7,1.0,,2020-11-09 09:06:19
+jqjwia,GeroSchorsch,How to lint in-line in realtime with coc?,18,4,0.7,,2020-11-09 08:23:53
+jql5ng,justinjoseph7,Arithmetic operation upon strings and numbers,10,4,1.0,,2020-11-09 09:32:29
+jqb3hu,finou314159,Regular expression in Vim. $ hello $ to \( hello \),21,14,0.79,,2020-11-08 23:41:11
+jqipa4,jamJam20,Do you write vimscript a lot? few questions here,19,3,1.0,,2020-11-09 07:18:29
+jqo07k,jamJam20,How to apply a function on each item in the list?,12,1,1.0,,2020-11-09 12:20:26
+jqhwww,Gus_Gustavsohn,Need help finding a way to accomplish this,6,2,1.0,,2020-11-09 06:36:07
+jqovtt,R530er,How do I use real tabs instead of spaces when writing python?,8,0,0.44,question,2020-11-09 13:14:56
+jqfxc9,manu0600,Match regex in vim,9,2,1.0,,2020-11-09 04:46:17
+jqhwv3,banana_llarma,how do you set up packadd to automatically install not install plugins,1,0,0.5,,2020-11-09 06:36:01
+jqjdul,AmitGold,Debugging in Vim/NeoVim,3,0,0.25,question,2020-11-09 07:55:42
+jqetyz,binaryfor,"This week’s open source newsletter just went out! This one had some seriously interesting projects, like Mario in Vim, and a project that allows you to search through JSON without knowing it’s structure beforehand (unlike jq).",2,1,0.53,,2020-11-09 03:46:58
+jpz6wa,knpwrs,gq in vim resulting in shell error,5,25,0.8,question,2020-11-08 08:53:55
+jplc5x,immortal192,"Do you guys bind j/k to gj/gk? Use textwidth, gq?",32,65,0.94,,2020-11-07 16:31:32
+jqa4sr,AbdullahToday,Mutt | Email Client that sucks less | How to use email from a Terminal |...,5,0,0.43,,2020-11-08 22:17:35
+jpy4mh,rob508,Map RightMouse map along with popup_setpos mode?,2,2,0.76,,2020-11-08 07:54:45
+jq1miy,rj0_1_,"I have created a snippet with python interpolation, but it not working can any check it.",3,1,0.55,question,2020-11-08 11:13:34
+jpshhi,Striking_Ad_7465,Vim or Neovim for a beginner?,26,3,0.58,question,2020-11-08 02:16:13
+jpx7j0,LorenWard,Using Alt+h/j/k/l with GVim on Windows?,9,2,0.76,question,2020-11-08 07:03:47
+jpjxdd,aoe2map,Vim- links to other files (and sections inside),20,10,0.87,,2020-11-07 14:47:48
+jpp3nw,CP999-,Change cursor init.vim on WSL2,5,2,0.76,,2020-11-07 22:09:20
+jp2x6t,TC0072,Using the power of :g[lobal] and :v[global] with :s[ubstitute] to filter lines they affect,35,157,1.0,tip,2020-11-06 21:37:15
+jp4fbe,king_arley2,TIL vim can restore previous quickfix lists,10,28,1.0,,2020-11-06 23:43:05
+jpf4kh,GAAfanatic,plugin to generate tree of callers of a function,12,3,0.72,,2020-11-07 09:39:09
+jpe3b1,banana_llarma,Is there a way to turn off key repeat on only vim,8,3,1.0,,2020-11-07 08:40:47
+jp6ul3,torresjrjr,How-to floating vim-plug window?,2,9,1.0,,2020-11-07 02:16:41
+jp58j3,arch_is_1337,What features are you looking for if you are going to use vim like an IDE? It would be helpful if you could list them.,12,7,0.73,,2020-11-07 00:40:40
+jpekn1,jmercouris,Powerline for Nyxt,4,1,0.55,,2020-11-07 09:07:17
+joz5oh,alkaline-adrian,Which generic editor/IDE offers good vim mode support?,58,18,0.8,,2020-11-06 16:20:04
+jp32lg,FreierVogel,Spanish accents not showing on vim,10,6,0.88,,2020-11-06 21:50:56
+jpgqu5,Maskdask,Is it possible to get vim-plug to update asynchronously?,11,0,0.38,,2020-11-07 11:15:09
+jp4b44,shaeinst,developed a script to run/build a program in vim,9,2,0.67,,2020-11-06 23:34:16
+johj4x,harmonious_herman,Tridactyl: a Vim-like interface for Firefox,23,143,0.99,,2020-11-05 22:56:39
+joj7dh,hershin,Oceanic Next colorscheme,11,63,0.93,,2020-11-06 00:59:30
+jp3o6j,Solitude_Go,How to set the airline configuration in the picture? let g:airline_left(or right)_sep = ' ',0,0,0.5,question,2020-11-06 22:42:41
+joeamj,skywind3000,Add a context menu to your vim,23,124,0.98,,2020-11-05 17:58:45
+joj5fn,koomenk,Detect filetype inside a block?,3,5,1.0,question,2020-11-06 00:56:04
+jonacb,arch_is_1337,which is beter tmux or vim for window and tab function?,9,2,0.63,,2020-11-06 04:46:54
+jo0ev5,LordKreias,Is it possible to highlight SQL(SQLite) in Python files?,22,119,0.98,,2020-11-05 04:05:07
+jon1xw,-rensenware-,Detecting if a file is already open spontaneously broken,4,0,0.5,question,2020-11-06 04:34:56
+joi5o7,SeuChiko,"Sorry for the newbie question, but I'm having a tabulation level does not match in lines 52-66, and I can't solve it at line 51 I did: ':s/ /^I/g', I don't know if it is the best solution and also how I apply this to all the lines in visual mode (it is not working for me for some reason).",1,2,1.0,,2020-11-05 23:46:01
+joj4su,stegzzz,vim startup pause,12,1,1.0,,2020-11-06 00:54:54
+joiout,ykonstant,A wish for a binary seek mode,7,1,1.0,question,2020-11-06 00:24:42
+jo1tef,,I moved from VisualStudio to vim. I feel ready to start a blog.,29,30,0.82,,2020-11-05 05:18:15
+joc8w8,yudhiesh,Anyone here using the colorscheme pop-punk? Can't seem to figure out why comments wrap around and are highlighted like this.,7,3,1.0,,2020-11-05 15:21:56
+jo7gbs,chillysurfer,Override plugin shortcut,5,5,1.0,,2020-11-05 10:24:32
+jo9pac,yourgrassisass,Minimalist Mac Vim users: this is the only keyboard customization you need,17,3,0.64,,2020-11-05 12:40:22
+jnxjom,kiwisniper69,How can I change the default pager for vim?,10,22,0.96,,2020-11-05 01:24:13
+jnw0lo,kn0xchad,Jupyter notebook workflow in vim,13,25,0.96,question,2020-11-04 23:42:11
+jobmkz,theshtank,Windows Terminal Vim: Can't see what I am selecting with visual mode.,6,1,1.0,,2020-11-05 14:41:39
+jnxcb0,b1ack_b0ne,How to split Vim horizontally and vertically in one command.,14,6,0.88,question,2020-11-05 01:11:10
+jnkvfu,AnanasBanaantje,"Dear Vim users, what is your best setup for working in Python?",76,83,0.98,,2020-11-04 09:52:49
+jo0a5y,jwink3101,Toggle comments as opposed to disparate comment/uncomment lines?,4,2,1.0,,2020-11-05 03:58:37
+jnzzxt,reminescenz,Run program lookup (Shift-k) in silent mode,4,2,1.0,,2020-11-05 03:43:11
+jnz9tz,Neovea,How vim is different from other IDEs / Editors when saving files ?,4,1,0.57,,2020-11-05 03:03:40
+joi0fy,juliovmh,fuck vim,10,0,0.15,,2020-11-05 23:35:07
+jo0fk6,vodkastick,Search replace help,5,1,0.67,,2020-11-05 04:06:09
+jnvssl,kn0xchad,BufWritePost commands with sudo,2,1,0.6,question,2020-11-04 23:25:28
+jn89tt,habamax,Some custom text objects you might find useful too,5,103,0.97,,2020-11-03 21:53:31
+jo6ap7,blay263,Let's get political,1,0,0.38,,2020-11-05 09:19:21
+jn7wez,brendan_m6s,Instantly refactor Python in Vim,17,49,0.82,,2020-11-03 21:17:53
+jnntvr,wang-bei,"getcompletion("""", ""tag"") only returns 300 tags at most?",4,2,1.0,question,2020-11-04 12:51:38
+jmu2yj,habamax,"Happy Birthday, Vim!",12,283,1.0,,2020-11-03 06:15:11
+jnbj6d,gorilla0513,I made a plugin that can get GitHub's pull request URL.,2,7,0.9,,2020-11-04 01:49:06
+jn7lfs,torresjrjr,New Fediverse community for Vim!,2,9,0.92,,2020-11-03 20:48:47
+jne719,accappatoiviola,[OC] The Most Popular Integrated Development Environments (IDEs - 2006/2020),19,2,0.56,meta,2020-11-04 04:08:15
+jn5u2s,lonewolf_9,jupyter-integration in VIM,15,8,1.0,question,2020-11-03 18:03:47
+jn613h,TheCakeWasNoLie,Search through files plugin,9,4,1.0,question,2020-11-03 18:21:08
+jmxkft,atweiden,"The file explorer Vim needs, not the one Vim deserves",6,9,0.85,,2020-11-03 09:14:58
+jn4cxn,LordKreias,Is it possible to remove pep 8 errors from ALE?,8,2,0.75,,2020-11-03 16:05:10
+jmvksg,,Question about syntax highlighting,4,2,1.0,,2020-11-03 07:36:09
+jmhob9,matt_gilbert,"SpaceVim good, or nope",42,26,0.77,,2020-11-02 16:16:26
+jmuey2,paulshen,VSCode tips for Vim people,5,1,0.53,,2020-11-03 06:33:07
+jm4x58,zeragal,¿Vim plugin to predict?,22,34,0.87,,2020-11-02 03:19:09
+jm218c,ninja_the_rabbit,React and TypeScript syntax highlighting 'redrawtime' exceeded,10,30,0.85,,2020-11-02 00:15:24
+jmby9b,Sjod1407,Vim and java?,31,6,0.6,question,2020-11-02 09:54:54
+jm6u1h,Leestons,New to Vim - What is the correct way to navigate?,41,3,0.62,question,2020-11-02 05:07:09
+jm3j9b,plusSignC,Swap the window split direction logic,11,2,0.67,question,2020-11-02 01:56:38
+jm2gho,dumb-on-ice,How to highlight certain things in python,5,5,1.0,,2020-11-02 00:45:46
+jlk9hd,mileslimes,Online Vim meetup,21,147,0.99,,2020-11-01 02:27:38
+jm45cv,Curious_homosepian,What are those files with ~ extension in the end and how to avoid it getting detected by git?,12,0,0.33,,2020-11-02 02:34:01
+jlu7wy,jamJam20,How to get rid of ^@ from an appended text,11,10,0.86,question,2020-11-01 12:31:59
+jlxk4v,alexeusgr,A noobish question on Tab key behavior,5,1,1.0,,2020-11-01 16:53:13
+jlbg03,Wheelthis,Using Vim's built-in terminal,45,73,0.97,,2020-10-31 14:26:56
+jljnmz,dotancohen,Search strings in SC-IM,3,6,0.88,,2020-11-01 01:51:35
+jltc04,Relatively_Curious,first time vim user trying to install plugins. I'm getting errors. Does it look right?,21,2,0.62,,2020-11-01 11:30:46
+jlfpq4,kwokhou,Output relative file path in Vim,3,12,1.0,,2020-10-31 20:52:27
+jl809t,MachineGunPablo,Vimways Calendar 2020?,13,17,0.96,,2020-10-31 10:45:06
+jkyjxx,floZiix,"Please, help me to remove this light gray in the left! (morhetz/gruvbox)",17,85,0.93,,2020-10-31 02:11:29
+jl7ygu,FilthyFucknDirtyCock,Help! Why does my vim have randomly scattered tilde's? Windows 10 Vim,19,15,0.81,,2020-10-31 10:42:11
+jliyp7,fizzzzi,Background opacity on Vim/SpaceVim,5,0,0.5,question,2020-11-01 01:08:07
+jlfucm,daliusd_,Question about LSP/tsserver Code Actions,6,2,1.0,,2020-10-31 21:03:42
+jkxuv8,rofic,Is easymotion the fastest way to navigate to an arbitrary point? Reasons not to use it?,36,29,0.95,,2020-10-31 01:33:19
+jlegak,jpranata,Syntax highlight color,4,0,0.5,,2020-10-31 18:45:15
+jl0se2,LearnTillDeath,Was outside and had to edit some code to be sent back quick. DroidVim to the rescue,11,10,1.0,,2020-10-31 04:08:51
+jl7u0x,naderad,Adding an additional comment syntax that applies to all file types,5,2,1.0,,2020-10-31 10:34:23
+jl46a5,someguy3,Why are the directions set as hjkl instead of jkl;? (I'm not a vim user),19,4,0.64,question,2020-10-31 07:07:29
+jko7hq,mad_visionary,"My Prettier plugin is setting huge horizontal spaces when i call him, there's a way to fix it to looks like prettier of VSCODE?",22,78,0.9,plugins & friends,2020-10-30 13:12:00
+jl6fze,Sho0pi,Using Vim for Android development,7,1,0.67,question,2020-10-31 09:13:29
+jkwr4z,koomenk,Vim on Windows is not sourcing plugin's ftplugin/,4,2,0.75,question,2020-10-31 00:29:01
+jkbop3,a_bored_husky,Mario on Vim,9,115,0.98,,2020-10-30 02:04:58
+jkuubc,AppropriateCrew79,Is there any plugin that provides fish-like autosuggestions in neovim?,5,2,0.67,,2020-10-30 22:13:27
+jkh6iq,phelipetls,Python f-strings syntax highlighting in Vim,4,31,0.96,,2020-10-30 06:46:09
+jk3nw1,ShivamJoker,"Wait for it !!! This is what we can do with vim surround and macro repeating. Command I used start rec `qa` add quotes and comma `yss""$a, Esc j` repeat macro n times 20@a",74,201,0.95,,2020-10-29 15:32:08
+jksvb4,Astro_Z0mbie,[YouCompleteMe] How can I show the methods and functions of an external directory?,3,1,0.67,,2020-10-30 19:18:35
+jkcfkh,skeeto,Eliminating delays on ESC in vim and zsh,1,14,1.0,,2020-10-30 02:44:38
+jkjva5,ShadowInSoul,Would you recommend Vim extension from VS Code to learn Vim?,12,3,0.72,,2020-10-30 09:03:06
+jknr9k,rofic,Is using Alt as prefix key a bad idea for tmux?,3,2,1.0,,2020-10-30 12:44:47
+jkh4zk,jamJam20,Is it possible to insert autocmd to augroup?,1,3,1.0,question,2020-10-30 06:44:00
+jjv42n,punctualjohn,Vim is the gateway drug to Linux,68,132,0.95,other,2020-10-29 06:58:28
+jkbgz1,leaderwho,Show actions you're typing in normal mode in the corner like VSCode Vim emulator?,5,4,1.0,question,2020-10-30 01:53:20
+jk9q9x,simbapk,VertSplit highlight,5,4,1.0,,2020-10-30 00:10:09
+jk5s79,RunningUtes,How can I change the position of the status line in vim?,11,10,1.0,,2020-10-29 18:39:01
+jjns01,ledesmablt,"vim-run: Run, view, and manage UNIX shell commands with ease (async of course)",29,195,0.97,plugins & friends,2020-10-29 00:31:41
+jk2k14,coralton,Gary Bernhardt’s new YouTube channel,11,13,1.0,,2020-10-29 14:11:58
+jk843u,SuperGrip,UltiSnips python code formatting ?,0,2,1.0,,2020-10-29 22:14:52
+jkb404,mrillusi0n,"Is there a way to make cib work on the nearest pair of brackets, without me being inside / on one?",5,1,0.67,question,2020-10-30 01:33:03
+jk5xwi,bocadillo_sin_pan,How do i install vimball?,2,2,1.0,,2020-10-29 18:54:53
+jk4b0f,MrMosBiggestFan,Better errorformat testing?,8,3,1.0,,2020-10-29 16:23:03
+jkhavi,0megaRogue,Neovim split window layout breaking,2,0,0.22,question,2020-10-30 06:52:27
