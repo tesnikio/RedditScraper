@@ -17,3 +17,7 @@ After PRAW installation I wrote a small Python script for collecting some data. 
 ## Exploratory Data Analysis
 
 Here I used Jupyter Notebook with internal comments (read inside) to demonstrate the data in the most convenient way. I used Pandas for table data, Seaborn and Matplotlib for plotting and Numpy for math and statistics.
+
+## Conclusion
+
+All comments and assumptions could be found in my notebook in Markdown cells.
