@@ -1,6 +1,6 @@
 # RedditScraper
 
-Since I had a little amount of time, for convenience reasons I chose PRAW Wrapper for Reddit post scraping. 
+Since I had a little amount of time, for convenience reasons I chose [PRAW Wrapper for Reddit](https://praw.readthedocs.io/en/latest/index.html) post scraping. 
 To set things up, you'll have to install PRAW and create Reddit application in your account as a developer.
 
 ## Install
